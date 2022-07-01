@@ -1,0 +1,9 @@
+P1, shirt, 50.0, 30
+P2, towel, -10, 20
+P3, oven, 300.0, 35
+P4, kettle, 90.2, 40
+P5, microwave, 200.0, 15
+P6, candle, , 25
+P7, pant, 80.5, 20
+B8, houseapp, P3, P4, P5, 10
+B9, workwear, P1, P7, 20
